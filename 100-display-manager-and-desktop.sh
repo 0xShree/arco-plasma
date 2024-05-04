@@ -47,6 +47,7 @@ echo "Installation of the core software"
 ###############################################################################
 
 list=(
+alacrity
 arcolinux-arc-kde
 arcolinux-plasma-keybindings-git
 arcolinux-plasma-servicemenus-git
