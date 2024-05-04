@@ -69,7 +69,7 @@ kate
 kde-gtk-config
 kdeconnect
 kdenetwork-filesharing
-ktorrent
+#ktorrent
 ocs-url
 okular
 packagekit-qt5
@@ -77,7 +77,8 @@ plasma
 spectacle
 surfn-plasma-dark-icons-git
 surfn-plasma-light-icons-git
-yakuake
+#yakuake
+zsh
 )
 
 count=0
